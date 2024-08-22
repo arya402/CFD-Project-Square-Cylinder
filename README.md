@@ -17,7 +17,7 @@ This repository contains the work done for a project involving 2D flow simulatio
   - `Solution.pdf`: The final solution with results for different Reynolds numbers.
 
 - **Results**: Computational analysis results.
-  - [Add any screenshots or detailed analysis reports here]
+  ![image](https://github.com/user-attachments/assets/88bf79ff-7143-4d6c-849d-2090c1ad6048)
 
 ## Research Interests
 - Thermal sciences, focusing on heat transfer and energy-efficient systems through experimental and theoretical analysis.
